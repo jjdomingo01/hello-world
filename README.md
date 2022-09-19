@@ -1,2 +1,2 @@
 # hello-world
-Japheth Francis Domingo test repository.
+Japheth Francis Domingo hello-world.
